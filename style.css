@@ -1,0 +1,5 @@
+.info label,
+.info input,
+textarea {
+  display: block;
+}
